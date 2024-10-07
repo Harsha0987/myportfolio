@@ -15,3 +15,8 @@ I am a Harsha, web developer with a passion for creating user-friendly and visua
 
 
 
+## Setup Instructions
+To set up this project locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/my-portfolio.git
